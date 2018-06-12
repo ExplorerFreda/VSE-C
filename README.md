@@ -1,6 +1,6 @@
 # VSE-C
 
-Developed by Haoyue (Freda) Shi and Jiayuan Mao.
+Developed by [Haoyue (Freda) Shi](http://explorerfreda.github.io) and [Jiayuan Mao](http://vccy.xyz).
 
 
 This repo includes the implementation of our paper "Learning Visually-Grounded Semantics from Contrastive Adversarial Samples" at COLING 2018. 
