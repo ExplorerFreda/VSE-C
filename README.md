@@ -1,4 +1,4 @@
-# VSE-C [(paper)](http://www.aclweb.org/anthology/C18-1315)
+# [Learning Visually-Grounded Semantics from Contrastive Adversarial Samples](http://www.aclweb.org/anthology/C18-1315)
 
 Developed by [Freda Shi](http://explorerfreda.github.io) and [Jiayuan Mao](http://vccy.xyz).
 
